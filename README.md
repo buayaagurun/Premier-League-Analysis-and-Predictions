@@ -5,4 +5,4 @@ This is my first full project to do data things, i have Premier League fixtures 
 2. Visualize and analyzing what i got from the dataset
 3. Make Neural Network Model to predict result from Premier League match
 
-Shout out to dataquest channel on youtube (https://www.youtube.com/@Dataquestio) to give the tutorial and gave me an idea how i start my data project
+Shout-out to dataquest channel on youtube (https://www.youtube.com/@Dataquestio) to give the tutorial and gave me an idea how i start my data project
